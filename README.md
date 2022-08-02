@@ -9,7 +9,7 @@ Simple python script supported with BurpBouty profile that helps you to detect S
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 ```
 
-![Header](https://github.com/eslam3kl/SQLiDetector/blob/main/screenshots/real-target.png)
+![Header](https://github.com/trhacknon/SQLiDetector/blob/main/screenshots/real-target.png)
 
 ## Description
 The main idea for the tool is scanning for Error Based SQL Injection by using different payloads like
@@ -79,9 +79,9 @@ I've created a burpbounty profile that uses the same payloads add injecting them
 + Paths
 
 I think it's more effective and will helpful for POST request that you can't test them using the Python script. 
-![burpbounty1](https://github.com/eslam3kl/SQLiDetector/blob/main/screenshots/burp-bounty1.png)
+![burpbounty1](https://github.com/trhacknon/SQLiDetector/blob/main/screenshots/burp-bounty1.png)
 
-![burpbounty2](https://github.com/eslam3kl/SQLiDetector/blob/main/screenshots/burp-bounty2.png)
+![burpbounty2](https://github.com/trhacknon/SQLiDetector/blob/main/screenshots/burp-bounty2.png)
 
 ## How does it test the parameter? 
 What's the difference between this tool and any other one? 
