@@ -3,9 +3,8 @@ Simple python script supported with BurpBouty profile that helps you to detect S
 ```
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 | S|Q|L|i| |D|e|t|e|c|t|o|r|
-| Coded By: Eslam Akl @eslam3kll & Khaled Nassar @knassar702
+| Coded By: trhacknon Akl @trhacknon 
 | Version: 1.0.0
-| Blog: eslam3kl.medium.com
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 ```
 
@@ -116,4 +115,4 @@ https://twitter.com/knassar702
 ![contributors](CONTRIBUTORS.svg)
 
 ## Stay in touch <3 
-[LinkedIn](https://www.linkedin.com/in/eslam3kl/) | [Blog](https://eslam3kl.medium.com/) | [Twitter](https://twitter.com/eslam3kll)
+[LinkedIn](https://www.linkedin.com/in//) | [Blog](https://eslam3kl.medium.com/) | [Twitter](https://twitter.com/)
