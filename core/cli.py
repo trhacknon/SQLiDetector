@@ -57,11 +57,11 @@ def print_logo():
             console.print(char, style="bold", end="")
     console.print()
     console.print(
-        "[green bold]|[/green bold] Coded By: [yellow]Eslam Akl [blue]@eslam3kll[/blue][/yellow] & [yellow]Khaled Nassar [blue]@knassar702[/blue][/yellow]"
+        "[green bold]|[/green bold] Coded By: [yellow]Eslam Akl [blue]@trhacknon[/blue][/yellow] & [yellow]AnonyMous red HaT [blue]wa are one [/blue][/yellow]"
     )
     console.print("[green bold]|[/green bold] Version: [yellow]1.0.0[/yellow]")
     console.print(
-        "[green bold]|[/green bold] Blog: [yellow]eslam3kl.medium.com[/yellow]"
+        "[green bold]|[/green bold] Blog: [yellow]trhacknon[/yellow]"
     )
     print_lines()
     console.print()
