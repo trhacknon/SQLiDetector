@@ -104,10 +104,10 @@ I think it's more effective and will helpful for POST request that you can't tes
 
 ## How does it test the parameter? 
 What's the difference between this tool and any other one? 
-If we have a link like this one `https://example.com?file=aykalam&username=eslam3kl` so we have 2 parameters. It creates 2 possible vulnerable URLs. 
+If we have a link like this one `https://example.com?file=aykalam&username=trhacknon` so we have 2 parameters. It creates 2 possible vulnerable URLs. 
 1. It will work for every payload like the following 
 ```
-https://example.com?file=123'&username=eslam3kl
+https://example.com?file=123'&username=trhacknon
 https://example.com?file=aykalam&username=123'
 ```
 2. It will send a request for every link and check if one of the patterns is existing using regex. 
@@ -128,11 +128,11 @@ If you want to contribute, feel free to do that. You're welcome :)
 ## Contributors
 Thanks to Mohamed El-Khayat, Khaled Nassar and Orwa for the amazing paylaods and ideas. Follow them and you will learn more
 ```
-https://twitter.com/Mohamed87Khayat
-https://twitter.com/GodfatherOrwa
-https://twitter.com/knassar702
+https://twitter.com/
+https://twitter.com/
+https://twitter.com/
 ```
 ![contributors](CONTRIBUTORS.svg)
 
 ## Stay in touch <3 
-[LinkedIn](https://www.linkedin.com/in//) | [Blog](https://eslam3kl.medium.com/) | [Twitter](https://twitter.com/)
+[LinkedIn](https://www.linkedin.com/in//) | [Blog](https:///) | [Twitter](https://twitter.com/)
