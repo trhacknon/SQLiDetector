@@ -69,7 +69,7 @@ http://test.com?parameter=ayhaga
 ## Installation and Usage
 Just run the following command to install the required libraries. 
 ```
-~/eslam3kl/SQLiDetector# pip3 install -r requirements.txt 
+~/trhacknon/SQLiDetector# pip3 install -r requirements.txt 
 ```
 To run the tool itself. 
 ```
