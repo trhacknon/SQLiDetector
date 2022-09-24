@@ -3,9 +3,9 @@ Simple python script supported with BurpBouty profile that helps you to detect S
 ```
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 | S|Q|L|i| |D|e|t|e|c|t|o|r|
-| Coded By: trhacknon Akl @trhacknon
-| Coded By: trhacknon Akl @trhacknon 
-| Version: 1.0.0
+| Coded By : eslam Akl 
+| Modded By: trhacknon Akl @trhacknon 
+| Version  : 1.0.0
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 ```
 
