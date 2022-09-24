@@ -4,7 +4,7 @@
     "Name": "",
     "Enabled": true,
     "Scanner": 1,
-    "Author": "@eslam3kll",
+    "Author": "@trhacknon",
     "Payloads": [
       "true,\u0027123",
       "true,\u0027\u0027123",
